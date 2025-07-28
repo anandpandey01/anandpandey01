@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23192
-Fork on GitHub
-7837
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Anand Pandey</h1>
 <h3 align="center">I'm a Software Engineer with a strong foundation in problem-solving, Data Structures, Algorithms, System Design and writing clean, scalable code.</h3>
