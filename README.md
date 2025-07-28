@@ -26,7 +26,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandpandey01&" alt="anandpandey01" /></p>
 
 <!-- GitHub contribution snake -->
-<img src="https://raw.githubusercontent.com/anandpandey01/anandpandey01/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anandpandey01/anandpandey01/output/dist/snake.svg" alt="Snake animation" />
+
 
 
 
