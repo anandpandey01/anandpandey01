@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Anand Pandey</h1>
 <h3 align="center">I'm a Software Engineer with a strong foundation in problem-solving, Data Structures, Algorithms, System Design and writing clean, scalable code.</h3>
 
