@@ -5,7 +5,7 @@
   
 - I have hands on expertise in C#, .NET Core, SQL, Redis, Kafka, and REST API development, with experience modernizing legacy systems, designing scalable microservices and distributed systems.
 
-- 💬 Ask me about **Data Structures, Algorithms, JAVA, Microservices.**
+- 💬 Ask me about **Data Structures, Algorithms, Java, Microservices.**
 
 - 📫 How to reach me **anand41250@gmail.com**
 
