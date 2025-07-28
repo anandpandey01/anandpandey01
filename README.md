@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Pandey</h1>
 <h3 align="center">I'm a Software Engineer with a strong foundation in problem-solving, Data Structures, Algorithms, System Design and writing clean, scalable code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandpandey01" alt="anandpandey01" /></a> </p>
-
 - 🔭 I’m currently working as a **.NET Developer at Accenture**
 
 - 💬 Ask me about **Data Structures, Algorithms, C#, JAVA, ASP.NET, Redis, Microservices, Azure**
@@ -22,6 +20,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandpandey01&show_icons=true&locale=en&layout=compact" alt="anandpandey01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandpandey01&show_icons=true&locale=en" alt="anandpandey01" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandpandey01" alt="anandpandey01" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandpandey01&" alt="anandpandey01" /></p>
 
