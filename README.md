@@ -2,6 +2,8 @@
 <h4 align="center">I'm a Software Engineer with a strong foundation in problem-solving, Data Structures, Algorithms, System Design and writing clean, scalable code.</h4>
 
 - 🔭 I’m currently working as a **.NET Developer at Accenture**
+  
+- I have hands on expertise in C#, .NET Core, SQL, Redis, Kafka, and REST API development, with experience modernizing legacy systems, designing scalable microservices and distributed systems.
 
 - 💬 Ask me about **Data Structures, Algorithms, C#, JAVA, ASP.NET, Redis, Microservices, Azure**
 
