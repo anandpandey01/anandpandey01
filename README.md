@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anand Pandey</h1>
-<h4 align="center">I'm a Software Engineer with a strong foundation in problem-solving, Data Structures, Algorithms, System Design and writing clean, scalable code.</h4>
+<h4 align="center">I'm a Senior Software Engineer with a strong foundation in problem-solving, Data Structures, Algorithms, System Design and writing clean, scalable code.</h4>
 
-- 🔭 I’m currently working as a **.NET Developer at Accenture.**
+- 🔭 I’m currently working as a **Senior Software Engineer at Enablistar.**
   
 - I have hands on expertise in C#, .NET Core, SQL, Redis, Kafka, and REST API development, with experience modernizing legacy systems, designing scalable microservices and distributed systems.
 
-- 💬 Ask me about **Data Structures, Algorithms, Java, Microservices.**
+- 💬 Ask me about **Data Structures, Algorithms, NET, Java, Microservices.**
 
 - 📫 How to reach me **anand41250@gmail.com**
 
